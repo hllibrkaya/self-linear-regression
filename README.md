@@ -1,4 +1,4 @@
-# Project Name
+# Project Description
 
 The aim of this project is to create a linear regression algorithm from scratch and test the model on a sample dataset
 
